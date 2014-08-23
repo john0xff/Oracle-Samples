@@ -1,0 +1,15 @@
+||:components.MenuGlueDemo
+java.lang.StringBuilder
+javax.swing.Box
+javax.swing.SwingUtilities
+javax.swing.JMenuBar
+javax.swing.JFrame
+components.MenuGlueDemo$1
+java.lang.Object
+components.MenuGlueDemo
+javax.swing.JMenu
+||:components.MenuGlueDemo$1
+java.lang.Object
+components.MenuGlueDemo
+components.MenuGlueDemo$1
+java.lang.Runnable

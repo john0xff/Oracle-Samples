@@ -1,0 +1,15 @@
+||:layout.AbsoluteLayoutDemo$1
+java.lang.Object
+layout.AbsoluteLayoutDemo$1
+java.lang.Runnable
+layout.AbsoluteLayoutDemo
+||:layout.AbsoluteLayoutDemo
+java.awt.Container
+javax.swing.SwingUtilities
+javax.swing.JFrame
+layout.AbsoluteLayoutDemo$1
+java.awt.Dimension
+java.awt.Insets
+layout.AbsoluteLayoutDemo
+java.lang.Object
+javax.swing.JButton

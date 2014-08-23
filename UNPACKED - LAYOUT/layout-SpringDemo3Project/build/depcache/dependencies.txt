@@ -1,0 +1,15 @@
+||:layout.SpringDemo3$1
+java.lang.Object
+layout.SpringDemo3$1
+java.lang.Runnable
+layout.SpringDemo3
+||:layout.SpringDemo3
+java.awt.Container
+javax.swing.SwingUtilities
+javax.swing.JFrame
+javax.swing.SpringLayout
+javax.swing.JTextField
+layout.SpringDemo3
+layout.SpringDemo3$1
+java.lang.Object
+javax.swing.JLabel

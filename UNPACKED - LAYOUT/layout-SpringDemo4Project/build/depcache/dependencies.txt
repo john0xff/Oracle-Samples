@@ -1,0 +1,17 @@
+||:layout.SpringDemo4
+java.awt.Container
+javax.swing.SwingUtilities
+javax.swing.SpringLayout$Constraints
+javax.swing.JFrame
+javax.swing.SpringLayout
+layout.SpringDemo4
+javax.swing.JTextField
+javax.swing.Spring
+java.lang.Object
+javax.swing.JLabel
+layout.SpringDemo4$1
+||:layout.SpringDemo4$1
+java.lang.Object
+java.lang.Runnable
+layout.SpringDemo4
+layout.SpringDemo4$1
